@@ -6,7 +6,7 @@ Agent ID NFT mint, no token yet: the NFT launch is the market test; the token fo
 
 - **OutyNFT** — `0x21CC09Dd13e1daF99E3b758cab6862A395fACdFE` — ERC-721 sale for Binance Agent ID holders. Free phase: first 1,500 Agent IDs claim 1 NFT each for a 0.0001 BNB service fee. Paid phase: 0.003 BNB per NFT, max 10 per Agent ID, 15,000 cap. All proceeds are forwarded to the payee inside the mint transaction. No owner, no pause, no upgrade, no withdrawal. Source verified on Sourcify: **exact match**.
 - **OutyMarket** (NFT version, in `contracts-nft/`) — `0x7f95AF99286b6c9dC95fC84b9C04d2E766aF11EE` — non-custodial market for OUTY NFTs, 2.5% fee to the payee. Source verified on Sourcify: **exact match**.
-- Sale opened 2026-11-13 02:03 WIB (deploy + 1h); free phase runs 24h or until the free supply is gone, then the paid phase opens.
+- Sale opens 2026-11-13 07:00:21 Beijing time (06:00:21 WIB); free phase runs 24h or until the free supply is gone, then the paid phase opens.
 - Payee: `0xB5d7aec297705337F3e09Ec4F802a580EFfEa0D3`.
 
 ## Phase 2 — OUTY token (roadmap, not yet deployed)
